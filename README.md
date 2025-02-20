@@ -1,6 +1,6 @@
 # Signals
 
-Visualization of signals with the ability to change hyperparameters.
+Visualization of few signals with the ability to change hyperparameters.
 
 
 
